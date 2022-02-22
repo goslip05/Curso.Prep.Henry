@@ -1,0 +1,31 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+     # Variables
+
+     Una variable es un espacio de memoria donde podemos almacenar algun dato para usarlo luego.
+
+     #Strings
+
+     Los Strings son cadenas de texto es decir letras, estas van entre comillas, siempre que observemos alguna variable entre comillas sencillas o dobles, se tratara de  un dato string por ejemplo: "Diego" o 'diego'
+
+
+     #Funciones
+
+     Una funcion es un bloque de codigo donde ejecutaremos lineas de codigo que solo pertenecen a esa funcion es decir que usamos una funcion cuando queremos realizar una tarea en especifico, debemos recordar que la funcion siempre debe retornar algun valor,
+     para ello usamos la palabra return y que podemos agregar argumetos a nuesta funcion que luego usaremos para llamar a dicha funcion.
+
+     #Declaraciones
+
+     Declarar es cuando usamos alguna funcion para ejecutar un bloque de codigo en elcaso de if la usamos para tomar deciciones en el codigo
+     principalmente se usa para ejecutar un bloque de codigo si la condicion es verdadera.
+
+     #Valores booleanos
+
+     el mundo de la compuadoras funciona basicamnete apartir de los numero binarios este leguaje se comunica apartir de unos y ceros (1-0), que en otras palabras
+     0 significa falso o false y 1 significa verdadero o true.
