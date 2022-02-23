@@ -1,0 +1,23 @@
+#for 
+
+un bucle o ciclo for es una forma rapida y sencilla de hacer algo que hacemos repetidamente es decir que cuando utilizamos
+muchas lineas para una misma tarea lomejor es usar un bucle for y en un pequeño bloque de codigo colocar nuestras condicines,
+debemos recordar que el bucle for esta comprendido de una variable, una condicion(para determinar el fin del nuestro ciclo), y el incremento de la variable hasta cumplir nuesta 
+condicion, recodemos tambien que en la expresion de condicion debemos estar seguros para evitar un ciclo infinito que podria provocar el cierre del programa.
+
+
+# &&
+
+&& es un operador logico que significa "y" o "AND" este operador evalua
+dos expresiones, y retorna un valor booleano, pero para que && retorne true o verdadero 
+ambas expresiones deberan ser verdaderas de lo contrario retonara un false 
+
+# ||
+
+|| tambien es un operador logico y su significado es "o" u "OR" este operador tambien avalua expresiones pero su diferencie esta en que si cualquiera
+de las dos expresioneses veradera nos retornara un verdadero o true.
+
+# !
+
+esta exclamacion tambien es un de nuestros operadores logicos, significa "not" o "NO" el trabajo que realiza este operador es el de negar la expresion.
+es decir que si tenemos un true pero si colocamos nuestro operador de negacion asi: !true este nos retornara un false.{}
